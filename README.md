@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Receive Help ASAP Using Our Chat Support](https://www.syncfusion.com/blogs/post/receive-help-asap-using-our-chat-support.aspx)
+- [Sneak Peek at Resource View in WPF Scheduler](https://www.syncfusion.com/blogs/post/sneak-peek-at-resource-view-in-wpf-scheduler.aspx)
+- [Sneak Peek at 2020 Volume 3: WPF](https://www.syncfusion.com/blogs/post/sneak-peek-at-2020-volume-3-wpf.aspx)
+- [Sneak Peek at 2020 Volume 3: Essential JS 2](https://www.syncfusion.com/blogs/post/sneak-peek-at-2020-volume-3-essential-js-2.aspx)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
