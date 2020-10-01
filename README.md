@@ -11,10 +11,6 @@
 
 - 📫 How to reach me **vbpradeep@live.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/vbpradeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vbpradeep" height="30" width="40" /></a>
@@ -45,3 +41,10 @@
 <br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbpradeep&layout=compact&theme=prussian" alt="vbpradeep" /></p>
+
+
+<br><br><br>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
