@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with: 
          max_post_count: "4"
-         feed_list: "https://dev.to/feed/vbpradeep, https://medium.com/feed/@vbpradeep, https://www.syncfusion.com/blogs/feed"
+         feed_list: https://medium.com/feed/@vbpradeep, https://www.syncfusion.com/blogs/feed"
